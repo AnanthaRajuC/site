@@ -30,9 +30,10 @@ $gap-xl: 2rem !default;
   $enable-media-radius: true,
   $enable-active-links: true,
   $enable-variable-fonts: true,
-  $family-sans-custom: 'Inter',
-  $family-code-custom: 'JetBrains Mono',
-  $family-sans-variable: 'Inter var',
+  $family-sans-custom: 'Recursive Sans',
+  $family-code-custom: 'Recursive Mono',
+  $family-sans-variable: 'Recursive Sans var',
+  $family-code-variable: 'Recursive Mono var',
   $font-families: (
     'headings': 'default-sans' 'Space Grotesk' 'Space Grotesk var'
   ),

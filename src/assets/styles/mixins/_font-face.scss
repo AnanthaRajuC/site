@@ -2,7 +2,7 @@
 @use 'sass:map';
 @use 'sass:meta';
 
-$default-formats: ('woff2', 'woff');
+$default-formats: ('woff2');
 
 @function _contains($list, $values...) {
   @each $value in $values {
